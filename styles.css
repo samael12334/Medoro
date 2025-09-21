@@ -11,6 +11,17 @@
     font-weight: bold;
 }
 
+.navbar .nav-link {
+    color: #fff ;
+    text-shadow: 1px 1px 4px #222;
+}
+
+.navbar .nav-link:hover {
+    color: #ddd;
+    text-decoration: underline;
+}
+
+
 .logo{
     width: 150px;
     height: 100px;
@@ -18,7 +29,7 @@
 
 
 .hero {
-    height: 90vh;
+    height: 767px;
     width: 100%;
     background-size: cover;
     background-position: center;
@@ -42,14 +53,55 @@
     z-index: -1; 
 }
 
+
 .features {
     display: flex;
     justify-content: space-around;
     align-items: center;
     height: 70vh;
     width: 100%;
-    background-color: #fcfcfc;
+    background-color: #eee;
     text-align: center;
+    gap: 30px;
+    padding: 40px 0;
+}
+
+.feature {
+    background: #525050;
+    color: #fff;
+    border-radius: 18px;
+    box-shadow: 0 6px 24px rgba(0,0,0,0.18);
+    padding: 36px 28px;
+    min-width: 220px;
+    max-width: 320px;
+    flex: 1 1 220px;
+    margin: 0 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid #111;
+    transition: box-shadow 0.2s;
+}
+
+.feature:hover {
+    box-shadow: 0 10px 32px rgba(0,0,0,0.28);
+transform: translateY(-5px);
+}
+
+
+.feature-box {
+    background: #232323;
+    color: #fff;
+    border-radius: 16px;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+    padding: 32px 24px;
+    min-width: 220px;
+    max-width: 320px;
+    flex: 1 1 220px;
+    margin: 0 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 
@@ -205,7 +257,7 @@ object-fit: cover;
 }
 
 .card-content {
-    background-color: #eeb3b3;
+    background-color: #f19b9b;
     padding: 15px;
     text-align: center;
 }
