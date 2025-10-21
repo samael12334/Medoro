@@ -1,15 +1,15 @@
-<h1 align="center">👋 ¡Hola! Soy Kevin Pagella</h1>
-<h3 align="center">💻 Desarrollador Web de Argentina 🇦🇷</h3>
+<h1 align="center">👋 Hi! I'm Kevin Pagella</h1>
+<h3 align="center">💻 Web Developer from Argentina 🇦🇷</h3>
 
 ---
 
-### 🚀 Sobre mí
-Soy un desarrollador apasionado por la tecnología y el aprendizaje constante.  
-Me gusta crear proyectos simples, funcionales y con buen diseño.  
+### 🚀 About Me
+I'm a passionate developer who loves technology and continuous learning.  
+I enjoy creating clean, functional, and well-designed projects.  
 
 ---
 
-### 🧠 Tecnologías que manejo
+### 🧠 Tech Stack
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="60" height="60"/>
   &nbsp;
@@ -20,18 +20,18 @@ Me gusta crear proyectos simples, funcionales y con buen diseño.
 
 ---
 
-### 🌱 Actualmente
-- 🔹 Aprendiendo más sobre desarrollo web  
-- 🔹 Experimentando con proyectos en **Python**  
-- 🔹 Mejorando mis habilidades en **HTML y CSS**
+### 🌱 Currently
+- 🔹 Learning more about web development  
+- 🔹 Experimenting with **Python** projects  
+- 🔹 Improving my **HTML** and **CSS** skills  
 
 ---
 
-### 📫 Contacto
-Podés encontrarme acá en GitHub o escribirme en redes como **Kevin Pagella**.  
+### 📫 Contact
+You can find me here on GitHub or on social media as **Kevin Pagella**.
 
 ---
 
 <p align="center">
-  ⭐ ¡Gracias por visitar mi perfil!
+  ⭐ Thanks for visiting my profile!
 </p>
